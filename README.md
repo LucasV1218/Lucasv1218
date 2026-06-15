@@ -85,7 +85,7 @@ Texto sobre mim
 
 <div>
 
-<a href="https://www.linkedin.com/in/daniel-steinbruch-a1115a164/" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-de-andrade-valente-614317319/" target="_blank">
 <img src="https://www.linkedin.com/in/lucas-de-andrade-valente-614317319/=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
