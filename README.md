@@ -89,12 +89,6 @@ Texto sobre mim
 <img src="https://www.linkedin.com/in/lucas-de-andrade-valente-614317319/=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:danielsteinbruch@gmail.com">
-<img src="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-
-
 
 > **"A tecnologia por si só não transforma o mundo. Pessoas que aprendem, inovam e compartilham conhecimento, sim."** 🚀
 
