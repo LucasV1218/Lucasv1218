@@ -7,10 +7,9 @@ Texto sobre mim
 ## 🚀 Sobre mim
 
 * 💻 Estudante de Técnico em informática
-*     Formado em assistente Administrativo
+* 📧​ Formado em assistente Administrativo
 * 📊 Apaixonado por programar, inovação e transformação digital
-* 🌱 Aprendizado contínuo em desenvolvimento de software, programação e IA
-* 🎯 Focado em criar soluções que conectem pessoas, conhecimento e tecnologia
+* 🌱 Aprendizado contínuo em desenvolvimento de software e programação
 
 ---
 ## 🛠️ Stack & Ferramentas
@@ -49,7 +48,6 @@ Texto sobre mim
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" title="IntelliJ IDEA"/>
-
 </div>
 
 ---
@@ -66,8 +64,9 @@ Texto sobre mim
 
 ## 🎯 Áreas de Interesse
 
-* Inteligência Artificial
-* Desenvolvimento Web
+* Programação
+* Tecnologia da informação
+* Ciências da Computação
 * Automação de Processos
 
 ---
@@ -77,6 +76,9 @@ Texto sobre mim
 ```text
 ☕ Java
 🗄️ Banco de Dados
+🖱️​ Design web
+​🖋️​ CSS
+📝​ Html
 ```
 
 ---
