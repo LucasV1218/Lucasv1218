@@ -7,7 +7,7 @@ Texto sobre mim
 ## 🚀 Sobre mim
 
 * 💻 Estudante de Técnico em informática
-* 📧​ Formado em assistente Administrativo
+* 📧​ Formado Técnico em Assistente Administrativo
 * 📊 Apaixonado por programar, inovação e transformação digital
 * 🌱 Aprendizado contínuo em desenvolvimento de software e programação
 
