@@ -20,7 +20,6 @@ Texto sobre mim
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="45" title="Notion"/>
 
 </div>
 
@@ -36,7 +35,6 @@ Texto sobre mim
 | Claude               | Análise, escrita estratégica e documentação            |
 | Excel                | Dashboards, indicadores e análise de dados             |
 | Canva                | Design, apresentações e comunicação visual             |
-| Notion               | Organização de projetos e gestão do conhecimento       |
 
 </div>
 
